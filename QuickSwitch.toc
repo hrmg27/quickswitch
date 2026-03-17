@@ -1,0 +1,9 @@
+## Interface: 120000, 120001
+## Title: |cFF3BD2EDQuickSwitch|r
+## Notes: One draggable spec bar with a talent dropdown on the active spec. /qs /qs config
+## Version: 1.3.0
+## Author: QuickSwitch
+## IconTexture: Interface\AddOns\QuickSwitch\qs-logo.png
+## SavedVariables: QuickSwitchDB
+
+QuickSwitch.lua
